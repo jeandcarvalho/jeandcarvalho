@@ -1,27 +1,39 @@
-## Hi there! 👋
+## Olá! Eu sou o Jean Carvalho 👋
 
-I'm **Jean Carvalho**, a passionate developer focused on automotive data acquisition and analysis. Welcome to my GitHub profile!
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/seucanal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuperfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusername)
 
-### 🔭 Current Projects
-| Project    | Description                                      | Repository                                        | Website                               |
-|------------|--------------------------------------------------|---------------------------------------------|---------------------------------------|
-| **CarCara**| A platform for collecting and analyzing automotive data. | [Visit Repository](https://github.com/yourusername/carcara) | [Visit Website](https://yourwebsite.com) |
+---
 
+### GitHub Stats
 
-### 🛠️ Most Used Languages
-| Language      | Projects  | Icon                       | Distribution |
-|---------------|-----------|-----------------------------|--------------|
-| C#            | 2         | ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)   | ██████████████  50%  |
-| TypeScript    | 2         | ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png)   | ██████████████  50%   |
+![Jean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
 
-### 🛠️ Technologies I Use
-| Technology    | Icon                                                                  | Background Color |
-|---------------|-----------------------------------------------------------------------|------------------|
-| JavaScript    | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  | ![#F7DF1E](https://via.placeholder.com/15/F7DF1E/000000?text=+) |
-| TypeScript    | ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)  | ![#007ACC](https://via.placeholder.com/15/007ACC/000000?text=+) |
-| Node.js       | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)        | ![#8CC84B](https://via.placeholder.com/15/8CC84B/000000?text=+) |
-| React         | ![React](https://img.icons8.com/color/48/000000/react-native.png)     | ![#61DAFB](https://via.placeholder.com/15/61DAFB/000000?text=+) |
-| MongoDB       | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)       | ![#47A248](https://via.placeholder.com/15/47A248/000000?text=+) |
-| HTML5         | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)         | ![#E34F26](https://via.placeholder.com/15/E34F26/000000?text=+) |
-| C#            | ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)  | ![#239120](https://via.placeholder.com/15/239120/000000?text=+) |
+---
 
+### 🚀 Tecnologias que uso no meu dia a dia
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+---
+
+### 🔭 Projetos Atuais
+
+| Projeto     | Descrição                                             | Repositório                                    | Website                                    |
+|-------------|-------------------------------------------------------|------------------------------------------------|--------------------------------------------|
+| **CarCara** | Plataforma para coleta e análise de dados automotivos | [Visitar](https://github.com/yourusername/carcara) | [Site](https://yourwebsite.com) |
+
+---
+
+### 📊 Minhas Estatísticas de Linguagens
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
