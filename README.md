@@ -6,10 +6,25 @@
 
 ---
 
-### 🔭 Current Projects
-| Project    | Description                                      | Repository                                        | Website                               |
-|------------|--------------------------------------------------|---------------------------------------------|---------------------------------------|
-| **CarCara**| A platform focused on automotive data analysis. | [Repository](https://github.com/yourusername/carcara) | [Hosted Website](https://yourwebsite.com) |
+<table style="border-collapse: collapse; width: 100%; background-color: #f5f5f5;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #ddd; padding: 8px;">Project</th>
+      <th style="border: 1px solid #ddd; padding: 8px;">Description</th>
+      <th style="border: 1px solid #ddd; padding: 8px;">Repository</th>
+      <th style="border: 1px solid #ddd; padding: 8px;">Website</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>CarCara</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A platform focused on automotive data analysis.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/yourusername/carcara">Repository</a></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://yourwebsite.com">Hosted Website</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
