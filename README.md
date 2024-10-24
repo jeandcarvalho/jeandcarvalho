@@ -1,15 +1,15 @@
 ## Olá! Eu sou o Jean Carvalho 👋
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/seucanal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuperfil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/jeancarvalh_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/jean-carvalho-a155a520b/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[jeandcarvalho](https://github.com/jeandcarvalho))
 
 ---
 
-### GitHub Stats
-
-![Jean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+### 🔭 Current Projects
+| Project    | Description                                      | Repository                                        | Website                               |
+|------------|--------------------------------------------------|---------------------------------------------|---------------------------------------|
+| **CarCara**| A platform focused on automotive data analysis. | [Repository](https://github.com/yourusername/carcara) | [Hosted Website](https://yourwebsite.com) |
 
 ---
 
@@ -24,16 +24,4 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
----
-
-### 🔭 Projetos Atuais
-
-| Projeto     | Descrição                                             | Repositório                                    | Website                                    |
-|-------------|-------------------------------------------------------|------------------------------------------------|--------------------------------------------|
-| **CarCara** | Plataforma para coleta e análise de dados automotivos | [Visitar](https://github.com/yourusername/carcara) | [Site](https://yourwebsite.com) |
-
----
-
-### 📊 Minhas Estatísticas de Linguagens
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
+Entusiasta por tecnologia e apaixonado por transformar dados em soluções inteligentes.
