@@ -4,29 +4,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/jean-carvalho-a155a520b/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[jeandcarvalho](https://github.com/jeandcarvalho))
 
----
-
-<table style="border-collapse: collapse; width: 100%; background-color: #f5f5f5;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid #ddd; padding: 8px;">Project</th>
-      <th style="border: 1px solid #ddd; padding: 8px;">Description</th>
-      <th style="border: 1px solid #ddd; padding: 8px;">Repository</th>
-      <th style="border: 1px solid #ddd; padding: 8px;">Website</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;"><strong>CarCara</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">A platform focused on automotive data analysis.</td>
-      <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://github.com/yourusername/carcara">Repository</a></td>
-      <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://yourwebsite.com">Hosted Website</a></td>
-    </tr>
-  </tbody>
-</table>
-
-
----
+### 🔭 Current Projects
+| Project    | Description                                      | Repository                                        | Website                               |
+|------------|--------------------------------------------------|---------------------------------------------|---------------------------------------|
+| **CarCara**| A platform focused on automotive data analysis. | [Repository](https://github.com/yourusername/carcara) | [Hosted Website](https://yourwebsite.com) |
 
 ### 🚀 Tecnologias que uso no meu dia a dia
 
