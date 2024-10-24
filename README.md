@@ -10,7 +10,7 @@
 | Project              | Description                                      | Repository                                              | Website                               |
 |----------------------|--------------------------------------------------|---------------------------------------------------------|---------------------------------------|
 | **CarCara Static Site**          | Plataforma focada na análise de dados automotivos. | [Repository](https://github.com/jeandcarvalho/CarCara.WebSite-TypeScript-React) | [Hosted Website](https://carcara.onrender.com/) |
-| **CarCara Web Service** | API responsável por gerenciar e processar dados automotivos. | [Repository]((https://github.com/jeandcarvalho/Carcara.API-TypeScript-MongoDB)) | N/A |
+| **CarCara Web Service** | API responsável por gerenciar e processar dados automotivos. | [Repository](https://github.com/jeandcarvalho/Carcara.API-TypeScript-MongoDB) | N/A |
 
 
 ---
