@@ -6,10 +6,10 @@
 
 ---
 
-### 🔭 Current Projects
+### 🔭 Projetos atuais
 | Project    | Description                                      | Repository                                        | Website                               |
 |------------|--------------------------------------------------|---------------------------------------------|---------------------------------------|
-| **CarCara**| A platform focused on automotive data analysis. | [Repository](https://github.com/yourusername/carcara) | [Hosted Website](https://yourwebsite.com) |
+| **CarCara**| Plataforma focada na análise de dados automotivos. | [Repository](https://github.com/yourusername/carcara) | [Hosted Website](https://yourwebsite.com) |
 
 ---
 
