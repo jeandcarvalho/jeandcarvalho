@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Jean Carvalho**, an enthusiastic developer passionate about automotive data acquisition and analysis. Welcome to my GitHub profile!
+I'm **Jean Carvalho**, a passionate developer focused on automotive data acquisition and analysis. Welcome to my GitHub profile!
 
 ### 🔭 I’m currently working on
 - [CarCara](https://github.com/yourusername/carcara): A platform for collecting and analyzing automotive data.
@@ -11,34 +11,15 @@ I'm **Jean Carvalho**, an enthusiastic developer passionate about automotive dat
 - Cloud technologies and their applications in automotive systems
 
 ### 🛠️ Technologies I work with
-- **Languages**: 
-  - **C#**: 2 projects (desktop applications)
-  - **TypeScript**: 1 project (API)
-  - **JavaScript**: 1 project (website)
-- **Frameworks**: Fastify, WinForms
-- **Databases**: MongoDB, PostgreSQL
-- **Tools**: Prisma, Git, Docker
-- **APIs**: RESTful APIs, third-party geocoding services
 
-### 👯 I’m looking to collaborate on
-- Open-source projects related to automotive technology
-- Data analysis and visualization tools
+| Language     | Projects  | Percentage  | Icon                       |
+|--------------|-----------|-------------|----------------------------|
+| C#           | 2         | ![C#](https://img.shields.io/badge/0%25-2%20Projects-brightgreen) | ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)   |
+| TypeScript   | 1         | ![TypeScript](https://img.shields.io/badge/0%25-1%20Project-brightgreen) | ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png)   |
+| JavaScript   | 1         | ![JavaScript](https://img.shields.io/badge/0%25-1%20Project-brightgreen) | ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)   |
 
-### 🤔 I’m looking for help with
-- Optimizing data processing workflows
-- Integrating machine learning models for data analysis
-
-### 💬 Ask me about
-- Data acquisition systems
-- MongoDB integration
-- Software development in C# and TypeScript
-
-### 📫 How to reach me
-- LinkedIn: [Jean Carvalho](https://www.linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
-### 😄 Pronouns
-- He/Him
-
-### ⚡ Fun fact
-- I love exploring the intersection of technology and automotive systems, and I'm always excited to learn new things!
+### 📊 Language Distribution
+```plaintext
+C#           ██████████████  50%
+TypeScript   █████████       25%
+JavaScript   █████████       25%
