@@ -4,10 +4,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/jean-carvalho-a155a520b/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[jeandcarvalho](https://github.com/jeandcarvalho))
 
+---
+
 ### 🔭 Current Projects
 | Project    | Description                                      | Repository                                        | Website                               |
 |------------|--------------------------------------------------|---------------------------------------------|---------------------------------------|
 | **CarCara**| A platform focused on automotive data analysis. | [Repository](https://github.com/yourusername/carcara) | [Hosted Website](https://yourwebsite.com) |
+
+---
 
 ### 🚀 Tecnologias que uso no meu dia a dia
 
