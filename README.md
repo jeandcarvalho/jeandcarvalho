@@ -7,26 +7,12 @@ I'm **Jean Carvalho**, a passionate developer focused on automotive data acquisi
 |------------|--------------------------------------------------|---------------------------------------------|
 | **CarCara**| A platform for collecting and analyzing automotive data. | [Visit Repository](https://github.com/yourusername/carcara) |
 
-### 🌱 Recent Learnings
-| Technology             | Status         |
-|------------------------|----------------|
-| **TypeScript**         | In progress    |
-| **Advanced Data Analysis** | In progress |
-| **Cloud Technologies** | In progress     |
-
-### 🛠️ Technologies I Work With
-| Language      | Projects  | Icon                       |
-|---------------|-----------|-----------------------------|
-| C#            | 2         | ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)   |
-| TypeScript    | 1         | ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png)   |
-| JavaScript    | 1         | ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)   |
-
-### 📊 Language Distribution
-| Language      | Distribution |
-|---------------|--------------|
-| C#            | ██████████████  50%  |
-| TypeScript    | █████████       25%   |
-| JavaScript    | █████████       25%   |
+### 🛠️ Technologies I Work With & 📊 Language Distribution
+| Language      | Projects  | Icon                       | Distribution |
+|---------------|-----------|-----------------------------|--------------|
+| C#            | 2         | ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)   | ██████████████  50%  |
+| TypeScript    | 1         | ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png)   | █████████       25%   |
+| JavaScript    | 1         | ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)   | █████████       25%   |
 
 ### 👯 I’m looking to collaborate on
 - Open-source projects related to automotive technology
