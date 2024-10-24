@@ -8,7 +8,7 @@ I'm **Jean Carvalho**, a passionate developer focused on automotive data acquisi
 | **CarCara**| A platform for collecting and analyzing automotive data. | [Visit Repository](https://github.com/yourusername/carcara) | [Visit Website](https://yourwebsite.com) |
 
 
-### 🛠️ Technologies I Work With & 📊 Language Distribution
+### 🛠️ Most Used Languages
 | Language      | Projects  | Icon                       | Distribution |
 |---------------|-----------|-----------------------------|--------------|
 | C#            | 2         | ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)   | ██████████████  50%  |
