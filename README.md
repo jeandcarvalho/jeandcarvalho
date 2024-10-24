@@ -9,7 +9,7 @@
 ### 🔭 Projetos atuais
 | Project    | Description                                      | Repository                                        | Website                               |
 |------------|--------------------------------------------------|---------------------------------------------|---------------------------------------|
-| **CarCara**| Plataforma focada na análise de dados automotivos. | [Repository](https://github.com/yourusername/carcara) | [Hosted Website](https://carcara.onrender.com/) |
+| **CarCara**| Plataforma focada na análise de dados automotivos. | [Repository](https://github.com/yourusername/carcara](https://github.com/jeandcarvalho/CarCara.WebSite-TypeScript-React)) | [Hosted Website](https://carcara.onrender.com/) |
 
 ---
 
