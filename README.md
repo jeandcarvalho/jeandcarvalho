@@ -8,7 +8,7 @@
 
 ## 📈 GitHub Stats
 
-[![Jean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeandcarvalho&show_icons=true&count_private=true&theme=radical)](https://github.com/jeandcarvalho)
+[![Jean's GitHub Commits](https://github-readme-stats.vercel.app/api?username=jeandcarvalho&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=prs&hide_title=true)](https://github.com/jeandcarvalho)
 
 ---
 
