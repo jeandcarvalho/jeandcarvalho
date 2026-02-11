@@ -6,17 +6,13 @@
 
 ---
 
-## 📈 GitHub Stats
-
-[![Jean's GitHub Commits](https://github-readme-stats.vercel.app/api?username=jeandcarvalho&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=prs&hide_title=true)](https://github.com/jeandcarvalho)
-
----
 
 ### 🔭 Projetos atuais
 | Project              | Description                                      | Repository                                              | Website                               |
 |----------------------|--------------------------------------------------|---------------------------------------------------------|---------------------------------------|
 | **CarCara Static Site**          | Plataforma focada na análise de dados automotivos. | [Repository](https://github.com/jeandcarvalho/CarCara.WebSite-TypeScript-React) | [Hosted Website](https://carcara.onrender.com/) |
 | **CarCara Web Service** | API responsável por gerenciar e processar dados automotivos. | [Repository](https://github.com/jeandcarvalho/Carcara.API-TypeScript-MongoDB) | N/A |
+| **OptimusBet**          | Plataforma focada na análise de dados esportivos. | [Repository](https://github.com/jeandcarvalho/OptimusBet) | [Hosted Website](https://optimusbet.onrender.com/) |
 
 
 
