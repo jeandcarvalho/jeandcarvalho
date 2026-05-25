@@ -5,15 +5,6 @@
 
 ---
 
-### 🔭 Current Projects
-| Project | Description | Repository | Website |
-|----------|------------|------------|----------|
-| **CarCara Static Site** | Platform focused on automotive data analysis. | [Repository](https://github.com/jeandcarvalho/CarCara.WebSite-TypeScript-React) | [Hosted Website](https://carcara.onrender.com/) |
-| **CarCara Web Service** | API responsible for managing and processing automotive data. | [Repository](https://github.com/jeandcarvalho/Carcara.API-TypeScript-MongoDB) | N/A |
-| **OptimusBet** | Platform focused on sports data analytics. | [Repository](https://github.com/jeandcarvalho/OptimusBet) | [Hosted Website](https://optimusbet.onrender.com/) |
-
----
-
 ### 🚀 Technologies I Use in My Daily Work
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
